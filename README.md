@@ -4,4 +4,4 @@ We can customise Flutter Widgets to achieve our own beautiful user interface des
 
 ## Screenshots
 
-<img src="ss1.png"> <img src="ss2.png"> <img src="ss3.png">
+<img src="ss1.png">
